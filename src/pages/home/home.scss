@@ -1,6 +1,24 @@
 page-home {
     h3.no-item {
-        color:map-get($colors, 'babyblue');
+        color:map-get($colors, 'primary');
     }
+
+    h2.item-name {
+        font-weight:500;
+    }
+
+    p.item-qty  {
+        font-style:italic;
+        padding-top:6px;
+
+    }
+
+    title {
+        text-align:center;
+    }
+
+  
+
+
 
 }

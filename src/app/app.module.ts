@@ -41,6 +41,7 @@ import {SocialSharing} from '@ionic-native/social-sharing';
     GroceriesServiceProvider,
     InputDialogueServiceProvider,
     SocialSharing
+
   ]
 })
 export class AppModule {}
